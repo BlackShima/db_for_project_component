@@ -81,6 +81,42 @@
       "profileImg": "/images/profiles/narin01.jpg",
       "isActivate": true,
       "level_ID": 2
+    },
+    {
+      "users_ID": 6,
+      "username": "narin02",
+      "password": "user123",
+      "FName": "Narin",
+      "LName": "Kumdee",
+      "role": "user",
+      "province": "Khon Kaen",
+      "profileImg": "/images/profiles/narin01.jpg",
+      "isActivate": true,
+      "level_ID": 2
+    }
+    {
+      "users_ID": 7,
+      "username": "narintorn03",
+      "password": "user123",
+      "FName": "Narin",
+      "LName": "Kumdee",
+      "role": "user",
+      "province": "Khon Kaen",
+      "profileImg": "/images/profiles/narin01.jpg",
+      "isActivate": true,
+      "level_ID": 2
+    }
+    {
+      "users_ID": 8,
+      "username": "narinrat01",
+      "password": "user123",
+      "FName": "Narin",
+      "LName": "Kumdee",
+      "role": "user",
+      "province": "Khon Kaen",
+      "profileImg": "/images/profiles/narin01.jpg",
+      "isActivate": true,
+      "level_ID": 2
     }
   ],
   "Questions": [
